@@ -1,9 +1,12 @@
 <h1 align="center">
   Hi there, I'm [YOUR_NAME] 👋
 </h1>
-<h2 align="center">
-  Security Researcher & Robotics Engineer
-</h2>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&pause=1000&color=9745FF&center=true&vCenter=true&width=435&lines=Security+Researcher;Robotics+Engineer" alt="Typing SVG">
+  </a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
